@@ -1,2 +1,2 @@
-# Barra de navegação responsiva
+# Barra de Navegação Responsiva
 Barra de navegação responsiva utilizando HTML, CSS e JavaScript.
