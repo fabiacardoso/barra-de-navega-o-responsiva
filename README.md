@@ -9,4 +9,4 @@ Aqui a proposta foi a criação de uma barra de navegação responsiva utilizand
 <br>
 
 
-![Previa Da barra de navegacao](https://j.gifs.com/E8JpGl.gif)]
+![Previa Da barra de navegacao](https://j.gifs.com/E8JpGl.gif)
